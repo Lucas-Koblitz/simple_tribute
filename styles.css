@@ -1,0 +1,39 @@
+html {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    background-color: #e7e3e3;
+}
+
+div {
+    resize: both;
+}
+
+img {
+    height: auto;
+    max-width: 90%;
+    display: block;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    display: block;
+}
+
+.content {
+    text-align: left;
+}
+
+a {
+    color: black;
+}
+
+#img-div {
+    background-color: white;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
